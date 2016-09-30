@@ -5,7 +5,7 @@ export default Ember.Component.extend({
     layout,
 
 
-    bloep: "V2",
+    bloep: "V3",
 
 
     classNames: ["md-form"],
