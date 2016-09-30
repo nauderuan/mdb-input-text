@@ -27,3 +27,5 @@ This README outlines the details of collaborating on this Ember addon.
 For more information on using ember-cli, visit [http://ember-cli.com/](http://ember-cli.com/).
 
 dickbutt
+
+"mdb-input-text": "git+https://github.com/nauderuan/mdb-input-text.git#2141cc9af1d21e73f0bc19491c7d2c1ad4d09db2"
