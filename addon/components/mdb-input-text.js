@@ -4,6 +4,10 @@ import layout from '../templates/components/mdb-input-text';
 export default Ember.Component.extend({
     layout,
 
+
+    bloep: "V2",
+
+
     classNames: ["md-form"],
     sFieldName: "",
     sValue: "",
