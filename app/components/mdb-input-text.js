@@ -1,1 +1,0 @@
-export { default } from 'mdb-input-text/components/mdb-input-text';
