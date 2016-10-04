@@ -47,7 +47,7 @@
     "ember-cli-babel": "^5.1.6",
     "ember-cli-htmlbars": "^1.0.3",
     "ember-cli-htmlbars-inline-precompile": "^0.3.1",
-      "mdb-input-master": "git+https://github.com/nauderuan/mdb-input-master.git#a17b741a583c2db41b18bbe89c9edc8de8eba072"
+      "mdb-input-master": "git+https://github.com/nauderuan/mdb-input-master.git#8d7240b3b1a580e19de4f6fdbcd8fb83d365b6b4"
   },
   "ember-addon": {
     "configPath": "tests/dummy/config"
