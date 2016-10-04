@@ -8,5 +8,10 @@ module.exports = {
 
         app.import('vendor/jquery.js');
         app.import('vendor/findMe.js');
+    },
+    normalizeEntityName: function() {}, // no-op since we're just adding dependencies
+
+    afterInstall: function() {
+        return this.addBowerPackageToProject("mdb-input-text"); // is a promise
     }
 };
