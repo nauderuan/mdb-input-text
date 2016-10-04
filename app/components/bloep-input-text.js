@@ -1,0 +1,1 @@
+export { default } from 'mdb-input-text/components/bloep-input-text';
